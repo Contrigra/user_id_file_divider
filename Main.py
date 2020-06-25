@@ -1,6 +1,6 @@
 """
 The program Takes a .txt file of parsed IDs as an input file
-and divides it into several files
+and divides it into several smaller .txt files
 """
 
 # Opening the file to divide and save it's content
