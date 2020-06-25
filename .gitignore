@@ -1,0 +1,8 @@
+/build/
+/dist/
+/Include/
+/Lib/
+/Scripts/
+/Main.spec
+/pyvenv.cfg
+/Text.txt
